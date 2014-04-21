@@ -1,4 +1,4 @@
 Repository--1
 =============
-[link](http://DavidsTestOrganization.github.com/Repository--1/ "demo")
+[link](http://davidstestorganization.github.io/Repository--1/ "demo")
 Repository #1
